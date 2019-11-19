@@ -1,14 +1,5 @@
 # ODF OPEN DATA EXTRACTION SCRIPTS
 
-#### REFERENCES
-
-1. Marine Data Portals: http://www.coastalwiki.org/wiki/Marine_data_portals_and_tools#Data_tools
-2. EMODNET: http://www.emodnet.eu/
-3. SMHI Oceanographic Data documentation: http://opendata.smhi.se/apidocs/ocobs/index.html
-4. Species data: https://www.gbif.org/occurrence/download/0036968-190918142434337
-5. Seadatanet: https://www.seadatanet.org/
-6. Research on Killer Shrimp: https://www.researchgate.net/publication/251571516_A_Preliminary_Assessment_of_the_Impact_of_Dikerogammarus_villosus_on_Ecological_status_for_the_Water_Framework_Directive
-
 #### DATA ENDPOINTS
 
 ##### WFS (data) / WMS (images) / CWS (metadata) (see http://www.opensealab.eu/data2019)
@@ -43,3 +34,12 @@ North Sea: ftp://vftp2.ifremer.fr/public/seadatanet-north_sea-temperaturesalinit
 4. https://python-visualization.github.io/folium/
 5. https://pypi.org/project/keplergl/
 6. https://pypi.org/project/PyCRS/
+
+#### REFERENCES
+
+1. Marine Data Portals: http://www.coastalwiki.org/wiki/Marine_data_portals_and_tools#Data_tools
+2. EMODNET: http://www.emodnet.eu/
+3. SMHI Oceanographic Data documentation: http://opendata.smhi.se/apidocs/ocobs/index.html
+4. Species data: https://www.gbif.org/occurrence/download/0036968-190918142434337
+5. Seadatanet: https://www.seadatanet.org/
+6. Research on Killer Shrimp: https://www.researchgate.net/publication/251571516_A_Preliminary_Assessment_of_the_Impact_of_Dikerogammarus_villosus_on_Ecological_status_for_the_Water_Framework_Directive
