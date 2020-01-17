@@ -1,6 +1,17 @@
 # ODF OPEN DATA EXTRACTION SCRIPTS
 
-#### DATA ENDPOINTS
+#### Open Data Search Engines
+
+1. Google Dataset Search (BETA) https://toolbox.google.com/datasetsearch
+2. Ocean Data Platform by Cognite Data Fusion (UNDER CONSTRUCTION) https://www.oceandata.earth/ 
+3. EU Open Data Portal: https://data.europa.eu/euodp/en/data/
+
+#### FAIR Data Practices
+
+* https://www.fairsfair.eu/
+
+
+#### Useful data endpoints for current ODF use cases
 
 ##### WFS (data) / WMS (images) / CWS (metadata) (see http://www.opensealab.eu/data2019)
 
