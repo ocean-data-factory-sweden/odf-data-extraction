@@ -1,5 +1,13 @@
 # ODF OPEN DATA EXTRACTION SCRIPTS
 
+#### Bug fixes and development notes
+
+Please feel free to submit any suggestions and bug fixes by creating an issue in the "Issues" tab on Github.
+
+To contribute code, please submit a pull request using the "Pull Requests" section in Github.
+
+Please direct any other code-related quries to: jurie.germishuys[at]combine.se
+
 #### Open Data Search Engines
 
 1. Google Dataset Search (BETA) https://toolbox.google.com/datasetsearch
